@@ -8,5 +8,6 @@ public class TestGitProject {
 public void gitTestDemo()
 {
 	Reporter.log("Git Test Demo", true);
+	System.out.println("Change Conmmit");
 }
 }
