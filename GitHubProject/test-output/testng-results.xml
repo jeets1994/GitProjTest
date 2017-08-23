@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Git Test Demo]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="76" started-at="2017-08-23T05:15:53Z" finished-at="2017-08-23T05:15:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="76" started-at="2017-08-23T05:15:53Z" finished-at="2017-08-23T05:15:53Z">
+      <class name="org.git.test.TestGitProject">
+        <test-method status="PASS" signature="gitTestDemo()[pri:0, instance:org.git.test.TestGitProject@5afa04c]" name="gitTestDemo" duration-ms="14" started-at="2017-08-23T10:45:53Z" finished-at="2017-08-23T10:45:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Git Test Demo]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gitTestDemo -->
+      </class> <!-- org.git.test.TestGitProject -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
